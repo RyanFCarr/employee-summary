@@ -17,6 +17,7 @@ let finished = false;
 async function promptManager(){
     const prompts = [...questions.employee];
     prompts.push(...questions.manager);
+    console.log("Enter the Manager's information")
 
     const answers = await inquirer.prompt(prompts);
 
@@ -28,7 +29,7 @@ async function promptManager(){
 async function promptEngineer(){
     const prompts = [...questions.employee];
     prompts.push(...questions.engineer);
-
+    console.log("Enter the Engineer's information")
     const answers = await inquirer.prompt(prompts);
 
     const { name, id, email, gitHub, done } = answers
@@ -40,6 +41,7 @@ async function promptEngineer(){
 async function promptIntern(){
     const prompts = [...questions.employee];
     prompts.push(...questions.intern);
+    console.log("Enter the Intern's information")
 
     const answers = await inquirer.prompt(prompts);
 

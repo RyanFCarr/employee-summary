@@ -3,18 +3,18 @@ module.exports = {
         {
             "type": "input",
             "name": "name",
-            "message": "What is your name?"
+            "message": "What is the Employee's name?"
         },
         {
             "type": "input",
             "name": "email",
-            "message": "What is your email?",
+            "message": "What is the Employee's email?",
             "validate": email => /^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(email)
         },
         {
             "type": "input",
             "name": "id",
-            "message": "What is your id?"
+            "message": "What is the Employee's id?"
         }  
     ],
     "manager": [
