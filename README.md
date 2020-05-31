@@ -30,5 +30,5 @@ npm run test
 If you have any questions feel free to contact me at RyanFCarr.dev@gmail.com
 
 ## Demo
-[![Employee Summary](https://user-images.githubusercontent.com/61035701/82734858-950b1300-9ceb-11ea-91ce-fd742dd32fdc.jpg)](https://drive.google.com/file/d/1t4lzwq6rt_gQkFiswfHTN-3Kt78LDYVC/view)
+[![Employee Summary](https://user-images.githubusercontent.com/61035701/83343096-308c1d00-a2c4-11ea-8c96-f34945348dea.jpg)](https://drive.google.com/file/d/1t4lzwq6rt_gQkFiswfHTN-3Kt78LDYVC/view)
 
