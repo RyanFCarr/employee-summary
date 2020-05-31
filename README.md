@@ -9,8 +9,6 @@ A nicely formatted team roster for Software Developers generated from the team's
 
   * [Installation](#installation)
   * [Test](#test)
-  * [License](#license)
-  * [Contributing](#contributing)
   * [Questions](#questions)
 
 ## Installation
@@ -27,10 +25,6 @@ To test, run the following command:
 ```
 npm run test
 ```
-
-## License
-
-## Contributing
 
 ## Questions
 If you have any questions feel free to contact me at RyanFCarr.dev@gmail.com
